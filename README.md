@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;Highly+complex+web+apps;Modern+technology+stacks!;Industry+standard+best+practices!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;Highly+complex+web+apps!;Modern+technology+stacks!;Standard+best+practices!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 - 👋 Hi, I’m @muhammedjemal
 - 👀 interested in innovating new stuffs ...
