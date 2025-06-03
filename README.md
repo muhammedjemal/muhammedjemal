@@ -16,7 +16,7 @@
 
 ### 👋 Hello there! I'm Jemal.
 
-I'm deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust backend systems and ensuring software quality through comprehensive testing.
+I'm a recent graduate from **Addis Ababa University** with a BSc in **Business Administration and Information Systems**. I'm deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust backend systems and ensuring software quality through comprehensive testing.
 
 ---
 
@@ -32,15 +32,52 @@ I'm deeply passionate about leveraging technology to build innovative, efficient
 
 ### 💻 Tech Stack & Tools:
 
-*   **Languages:** Python, JavaScript, Java, C++ *(Adjust based on your actual proficiency)*
-*   **Backend:** Django, Node.js, Express.js *(e.g., if you used Django for KiyaEqub)*
-*   **Frontend:** HTML, CSS, React, Vue.js *(Adjust as needed)*
-*   **Databases:** PostgreSQL, MongoDB, MySQL
-*   **Tools & Platforms:** Git, GitHub, Docker, AWS *(Mention any CI/CD, testing tools like Selenium, Jest, etc. if applicable)*
-*   **Other Interests:** Competitive Programming, System Design, Financial Technologies (FinTech)
+*(Please adjust this section to accurately reflect your skills!)*
 
-*(You can make this section more visual with icons if you like, using shields.io or similar. For example:*
-` <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> ` *)*
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+<p align="left">
+  <strong>Backend:</strong><br/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+<p align="left">
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+</p>
+
+<p align="left">
+  <strong>Databases:</strong><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<p align="left">
+  <strong>Tools & Platforms:</strong><br/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <!-- Add testing tools if applicable, e.g., Selenium, Jest -->
+  <!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/> -->
+  <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/> -->
+</p>
+
+<p align="left">
+  <strong>Other Interests:</strong> Competitive Programming, System Design, Financial Technologies (FinTech)
+</p>
 
 ---
 
