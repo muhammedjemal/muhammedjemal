@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/muhammedjemal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Jemal+Muhammed+Abdu;Full-Stack+Developer;Passionate+Problem+Solver;Building+Robust+Systems&font=Fira%20Code¢er=true&width=420&height=50&duration=4000&pause=1000" alt="Jemal Muhammed Abdu - Typing SVG Animation">
+       <img src="https://retype.ltd/Jemal+Muhammed+Abdu?lines=Full-Stack+Developer;Passionate+Problem+Solver;Building+Robust+Systems&font=Fira%20Code¢er=true&width=420&height=50&duration=4000&pause=1000&color=000000&size=22" alt="Jemal Muhammed Abdu - Typing SVG Animation">
   </a>
 </p>
 
