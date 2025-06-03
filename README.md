@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/muhammedjemal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Jemal+Muhammed+Abdu;Aspiring+NBE+System+Tester;QA+for+Financial+Systems;Dedicated+to+System+Integrity&font=Fira%20Code¢er=true&width=500&height=50&duration=4000&pause=1000" alt="Jemal Muhammed Abdu - Typing SVG Animation">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Jemal+Muhammed+Abdu;Full+Stack+System+Developer;Dedicated+to+System+Integrity&font=Fira%20Code¢er=true&width=500&height=50&duration=4000&pause=1000" alt="Jemal Muhammed Abdu - Typing SVG Animation">
   </a>
 </p>
 
