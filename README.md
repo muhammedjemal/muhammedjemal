@@ -28,28 +28,7 @@ I'm deeply passionate about leveraging technology to build innovative, efficient
 *   🧪 Enhancing my skills in software testing methodologies and quality assurance.
 *   💡 Always eager to learn new technologies and contribute to impactful projects.
 
----
 
-### 💻 Tech Stack & Tools:
-
-*   **Languages:** Python, JavaScript, Go, C++ 
-*   **Backend:** Django, Node.js, Go
-*   **Frontend:** HTML, CSS, React, Vue.js *(Adjust as needed)*
-*   **Databases:** PostgreSQL, MongoDB, MySQL
-*   **Tools & Platforms:** Git, GitHub, Docker, AWS CI/CD, testing tools like Selenium, Jest
-*   **Other Interests:** Competitive Programming, System Design, Financial Technologies
-
-
----
-
-### ✨ Featured Project: [KiyaEqub - Modern Savings Platform](http://kiyaequb.com)
-
-I was heavily involved in the development, testing, and management of **KiyaEqub**, a modern Equb (traditional Ethiopian savings) system. This included:
-*   Designing and implementing features for the sophisticated administrative dashboard.
-*   Ensuring seamless live payment management and overall system integrity.
-*   Developing and executing test cases for both web and mobile components.
-
-This project provided hands-on experience in building and maintaining a real-world financial application. *(If you have a GitHub repo for a version of this or a related project, link it here!)*
 
 ---
 
