@@ -20,8 +20,6 @@ I'm deeply passionate about leveraging technology to build innovative, efficient
 
 ---
 
-### 🌱 What I'm Focusing On & Learning:
-
 *   🚀 Developing and testing complex web applications from end-to-end.
 *   🛠️ Exploring modern technology stacks and best practices in software engineering.
 *   ⚙️ Diving deeper into system architecture, database management, and API design.
