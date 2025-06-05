@@ -32,12 +32,12 @@ I'm deeply passionate about leveraging technology to build innovative, efficient
 
 ### 💻 Tech Stack & Tools:
 
-*   **Languages:** Python, JavaScript, Java, C++ *(Adjust based on your actual proficiency)*
-*   **Backend:** Django, Node.js, Express.js *(e.g., if you used Django for KiyaEqub)*
+*   **Languages:** Python, JavaScript, Go, C++ 
+*   **Backend:** Django, Node.js, Go
 *   **Frontend:** HTML, CSS, React, Vue.js *(Adjust as needed)*
 *   **Databases:** PostgreSQL, MongoDB, MySQL
-*   **Tools & Platforms:** Git, GitHub, Docker, AWS *(Mention any CI/CD, testing tools like Selenium, Jest, etc. if applicable)*
-*   **Other Interests:** Competitive Programming, System Design, Financial Technologies (FinTech)
+*   **Tools & Platforms:** Git, GitHub, Docker, AWS CI/CD, testing tools like Selenium, Jest
+*   **Other Interests:** Competitive Programming, System Design, Financial Technologies
 
 
 ---
