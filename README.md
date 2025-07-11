@@ -16,7 +16,7 @@
 
 ### 👋 Hello there! I'm Jemal.
 
-I'm a senior Software Developer deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust systems and ensuring software quality through comprehensive testing.
+Expert-level, senior Software Developer. Deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust systems and ensuring software quality through comprehensive testing.
 
 ---
 
