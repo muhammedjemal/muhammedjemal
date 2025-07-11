@@ -16,11 +16,11 @@
 
 ### 👋 Hello there! I'm Jemal.
 
-I'm deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust backend systems and ensuring software quality through comprehensive testing.
+I'm a senior Software Developer deeply passionate about leveraging technology to build innovative, efficient, and scalable solutions. My core interest lies in **full-stack development**, with a particular enthusiasm for robust systems and ensuring software quality through comprehensive testing.
 
 ---
 
-*   🚀 Developing and testing complex web applications from end-to-end.
+*   🚀 Developing and testing complex applications from end-to-end.
 *   🛠️ Exploring modern technology stacks and best practices in software engineering.
 *   ⚙️ Diving deeper into system architecture, database management, and API design.
 *   🧪 Enhancing my skills in software testing methodologies and quality assurance.
