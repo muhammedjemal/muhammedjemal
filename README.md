@@ -30,7 +30,7 @@ Expert-level, senior Software Developer. Deeply passionate about leveraging tech
 
 ### 📫 Let's Connect:
 
-*   **Mobile:** [+251927444070](tel:+251927444070)
+*   **Mobile:** [📞 +251927444070](tel:+251927444070)
 *   **Email:** [jemal.muhammed@aau.edu.et](mailto:jemal.muhammed@aau.edu.et)
 *   **GitHub:** [@muhammedjemal](https://github.com/muhammedjemal) (You are here!)
 *   **LeetCode:** [jemsa12](https://leetcode.com/jemsa12/)
