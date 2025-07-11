@@ -7,8 +7,6 @@
 <div align="center">
 
   [![My LeetCode Profile](https://img.shields.io/badge/LeetCode-jemsa12-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jemsa12/)
-  <!-- Add your LinkedIn badge here if you have one and want to share it -->
-  <!-- e.g., [![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Muhammed%20Jemal-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/) -->
 
 </div>
 
@@ -39,6 +37,5 @@ Expert-level, senior Software Developer. Deeply passionate about leveraging tech
 ---
 
 <!---
-muhammedjemal/muhammedjemal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
